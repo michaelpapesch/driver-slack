@@ -14,10 +14,16 @@
             "email": "m.pociot@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/michaelpapesch/slack-client"
+        }
+    ],
     "require": {
         "php": ">=7.0",
         "botman/botman": "~2.1",
-        "michaelpapesch/slack-client": "~1.0"
+        "mpociot/slack-client": "dev-master"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
