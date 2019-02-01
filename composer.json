@@ -1,5 +1,5 @@
 {
-    "name": "michaelpapesch/driver-slack",
+    "name": "mpociot/driver-slack",
     "license": "MIT",
     "description": "Slack driver for BotMan",
     "keywords": [
@@ -23,7 +23,7 @@
     "require": {
         "php": ">=7.0",
         "botman/botman": "~2.1",
-        "michaelpapesch/slack-client": "*"
+        "mpociot/slack-client": "dev-master"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
