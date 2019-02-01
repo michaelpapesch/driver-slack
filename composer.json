@@ -1,5 +1,5 @@
 {
-    "name": "mpociot/driver-slack",
+    "name": "botman/driver-slack",
     "license": "MIT",
     "description": "Slack driver for BotMan",
     "keywords": [
