@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-slack",
+    "name": "michaelpapesch/driver-slack",
     "license": "MIT",
     "description": "Slack driver for BotMan",
     "keywords": [
